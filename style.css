@@ -1,0 +1,74 @@
+
+  .land-meta {
+    position: absolute;
+    height: 100%;
+    width: 45%;
+    left:0px;
+    top:0px;
+    background-color: #1fb6ff;
+  }
+
+  h1 {
+    margin-top :40%;
+    text-align: center;
+    font-family: hobo std;
+    font-size: 5em;
+  }
+
+  .login-reg-bg {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    left: 50%;
+    top:0px;
+    background-color: #FFFFFF;
+  }
+
+  .form-group{
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  p{
+    text-align: center;
+  }
+
+  .checkbox label{
+    color: #333;
+    font-size: 13px;
+  }
+  .subit-btns{
+    display: inline-block;
+  }
+
+  .home{
+    margin-left: 50%;
+    text-align: center;
+    margin-top: 20%;
+  }
+
+  .log-reg-area{
+    background: #FFFFFF;
+      box-shadow: 0 0 35px #1fb6ff;
+      display: block;
+      left: 15%;
+      padding: 35px 55px;
+      position: absolute;
+      top: 30%;
+      width: 50%;
+  }
+
+  .log-reg-area form .checkbox {
+      display: inline-block;
+      width: 50%;
+      margin-bottom: 10px;
+  }
+
+  .reg{
+    position: absolute;
+    left: 50%;
+  }
+
+  #best{
+    font-size: 2em;
+  }
